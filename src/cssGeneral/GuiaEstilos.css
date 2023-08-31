@@ -1,0 +1,30 @@
+.UsosCss {
+   display: flex;
+   align-items: center;
+   align-content: center;
+   position: fixed; 
+   bottom: 100; 
+   left: 60;
+   background-color: aqua;
+   font-weight: bold;
+   font-size: 16px;
+   width: 50px;
+   width: 100%;
+   height: 50px;
+   height: 100vh;
+   justify-content: center;
+   flex-direction: column;
+   border: 1px solid black;
+   text-transform: uppercase;
+   margin: 10px 10px 10px 10px;
+   z-index: 5;
+   text-align: center;
+}
+
+.divBackground  {
+   background-size: cover;
+   background-image: url("https://firebasestorage.googleapis.com/v0/b/catalogodracon.appspot.com/o/tu%20logo%20aqui%20jpg.jpg?alt=media&token=9acea295-b113-4c1c-be22-c1297b3c959b"); 
+   background-repeat: no-repeat;
+   background-position: center;
+}
+

@@ -1,0 +1,66 @@
+/* Estilos para el Footer */
+.footer {
+  color: #fff;
+}
+
+.logoMasEnlaces {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.footer__logo {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto 0px;
+  width: 300px;
+}
+
+.footerLogoImage {
+  width: 150px;
+  height: 150px;
+}
+
+.footer__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 80%;
+  padding: 20px;
+}
+
+.footer__section {
+  min-width: 200px;
+margin: 10px;
+}
+
+.footer__section-title {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #808080;
+}
+
+.footer__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer__list-item {
+  margin-bottom: 10px;
+}
+
+.footer__link {
+  color: #808080;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.footer__link:hover {
+  color: #febd69;
+}

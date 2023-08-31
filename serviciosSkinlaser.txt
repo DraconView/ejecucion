@@ -1,0 +1,72 @@
+1	✅ AXILAS	900	http://mpago.la/1WrCvcz	
+        x 6 sesiones:	http://mpago.la/154HGFu
+
+2	✅ PIERNAS COMPLETAS	2.900	http://mpago.la/1G1ntiU	
+        x 6 sesiones:	http://mpago.la/1uWrwrS
+
+3	✅ MEDIAS PIERNAS	1.950	http://mpago.la/2YXhDbk	
+        x 6 sesiones:	http://mpago.la/1t2EFYB
+
+4	✅ CAVADO COMPLETO	1.950   ** falta por 1		
+        x 6 sesiones:   ** falta por 6	
+
+5	✅ ROSTRO COMPLETO	1.750	http://mpago.la/2P3KRXd	
+        x 6 sesiones:	** falta por 6
+
+6	✅ BOZO	600	http://mpago.la/1wDrDUK	
+    x 6 sesiones:	http://mpago.la/1JXKotP
+
+7	✅ MENTÓN	600	http://mpago.la/28X6Tin	
+        x 6 sesiones:	http://mpago.la/2xLCrZB
+
+8	✅ BOZO Y MENTÓN	1.000	http://mpago.la/29nSFdd	
+        x 6 sesiones:	http://mpago.la/1MdfuSc
+
+9	✅ CUERPO ENTERO	7.100	http://mpago.la/28Mu7sg	
+        x 6 sesiones:	** falta por 1
+
+10	✅ ESPALDA	1.950	http://mpago.la/2nGqRUe	
+        x 6 sesiones:	http://mpago.la/2JnTfep
+
+11	❗ Abdomen	1.000	http://mpago.la/28tXHJQ	
+        x 6 sesiones:	http://mpago.la/1sdqBzT
+        ** falta crear en el catalogo
+
+12	❗ Gluteos	900	http://mpago.la/1HR2Cm2	
+        x 6 sesiones:	http://mpago.la/2rRz8mo
+         ** falta crear en el catalogo
+
+13	❗ Zona Bikini	1.200	http://mpago.la/1EwKuh6	
+        x 6 sesiones:	http://mpago.la/2XgEWVG
+         ** falta crear en el catalogo
+
+14	❗ Brazos	1.200	http://mpago.la/2HBYxom	
+        x 6 sesiones:	http://mpago.la/1yobMvz
+         ** falta crear en el catalogo
+
+15	❗ Patillas	600	http://mpago.la/2dNqBNj	
+        x 6 sesiones:	http://mpago.la/2Qr9v8D
+         ** falta crear en el catalogo
+
+16	❗ Línea alba	600	http://mpago.la/32U7kdN	
+        x 6 sesiones:	http://mpago.la/1CWmPfa
+         ** falta crear en el catalogo
+
+17	❗ Entrecejo	600	http://mpago.la/2LjuGUR	
+        x 6 sesiones:	http://mpago.la/2164jBC
+         ** falta crear en el catalogo
+
+18	❗ Ante brazos	600	http://mpago.la/1nTnjrn	
+        x 6 sesiones:	http://mpago.la/1znvsei
+         ** falta crear en el catalogo
+        
+19	✅ ZONAS PEQUEÑAS 600	http://mpago.la/2a8hcEp	
+        x 6 sesiones:	http://mpago.la/2fCMnsH
+
+20	✅ PROMO 1	4.850	https://mpago.la/29EsC8Z
+21	✅ PROMO 2	1.950	https://mpago.la/2eB1KzS
+22	✅ Promo 3	9.360	https://mpago.la/31DgdJt
+23	✅ PROMO 4	8.400	https://mpago.la/1vKGso9
+24	✅ PROMO 5	23.280	https://mpago.la/1mVr2DS
+25	✅ PROMO 6	9.360	https://mpago.la/1dV48Ls
+26	✅ PROMO 7	34.080	https://mpago.la/2LRULnJ

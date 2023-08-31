@@ -1,0 +1,47 @@
+import React from 'react';
+import JSZip from 'jszip';
+
+class ZipCreator extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      files: [],
+    };
+  }
+
+  handleFileUpload = (event) => {
+    const newFile = event.target.files[0];
+    this.setState(prevState => ({
+      files: [...prevState.files, newFile]
+    }));
+  }
+
+  handleZipCreation = () => {
+    const zip = new JSZip();
+    this.state.files.forEach(file => {
+      zip.file(file.name, file);
+    });
+
+    zip.generateAsync({ type: "blob" })
+      .then(content => {
+        const downloadUrl = URL.createObjectURL(content);
+        const link = document.createElement('a');
+        link.href = downloadUrl;
+        link.download = 'files.zip';
+        link.click();
+      });
+  }
+
+  render() {
+    return (
+      <div>
+        <h1>Zip Creator</h1>
+        <input type="file" onChange={this.handleFileUpload} />
+        <button onClick={this.handleZipCreation}>Create Zip</button>
+      </div>
+    );
+  }
+}
+
+export default ZipCreator;

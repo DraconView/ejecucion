@@ -1,0 +1,3942 @@
+.textoTituloCiudadSeleccionada {
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.divFlechaVolver {
+    display: flex;
+    width: 100%;
+}
+
+.divVentasHoyCuadrado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 100px;
+    border-radius: 15%;
+    box-shadow: 0px 0px 5px 0px #d3d3d3;
+}
+
+.divVentasHoyCirculo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px 0px #d3d3d3;
+}
+
+.textoAqui {
+    color: orange;
+    font-size: 32px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.textoTuLogo {
+    color: #000;
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.textoBotonPalma {
+    color: #000;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.textoBotonSoya {
+    color: orange;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.textoPresentacion {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.TextoDisponibilidadProductoFicha {
+    color: orange;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.TextoNombreProductoFicha {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoBotonRegistrarCliente {
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoIntro {
+    color: #000;
+    font-size: 30px;
+    font-weight: 700;
+    width: 350px;
+}
+
+.tituloEditandoEdicion {
+    background-color: #ffffff;
+    color: #000;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 40px auto 50px auto;
+}
+
+.bienvenida {
+    color: #808080;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 30px 0px 0px 0px;
+    text-align: center;
+    width: 100%;
+}
+
+.textoLogo {
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0px 0px 40px 0px;
+}
+
+.textoPresentacionLoginTablero {
+    color: #000;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.textoPrincipal {
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    max-width: 300px;
+    text-align: center;
+}
+
+.textoRegistroExitoso {
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.tituloPublicaciones {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 30px 0px 30px 0px;
+    text-transform: uppercase;
+}
+
+.texto25pxFw700TtUpper {
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.texto15pxFw700TtUpper {
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.numeroVentas {
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoConfirmacionWhatsapp {
+    color: green;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoRegistroExitosoAlert {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoVistaCuadrosAqui {
+    color: #000;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0px 0px 0px 5px;
+}
+
+.textoVistaCuadrosClick {
+    color: #000;
+    font-size: 15px;
+}
+
+.hola {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 0px 0px 5px 20px;
+}
+
+.textoServiciosActivoCuadros {
+    color: #FEBA20;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 5px 0px 0px 0px;
+}
+
+.textoServiciosActivoLista {
+    color: #000;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 5px 0px 0px 0px;
+}
+
+.textoServiciosInactivo {
+    color: #808080;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 5px 0px 0px 0px;
+}
+
+.textoServiciosInactivoCuadros {
+    color: #fff5d2;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 5px 0px 0px 0px;
+}
+
+.textoVista {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.textoBarraTitulos {
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoRegistrando {
+    color: #808080;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoServiciosActivoContexto {
+    color: #000;
+    font-size: 15px;
+    margin: 5px 0px 0px 5px;
+}
+
+.textoServiciosActivoCuadros {
+    color: #FEBA20;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 5px 0px 0px 0px;
+}
+
+.textoServiciosInactivo {
+    color: #808080;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 5px 0px 0px 0px;
+}
+
+.textoGris15700 {
+    color: #808080;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.textoDividerTablero {
+    color: #808080;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoServiciosInactivoContexto {
+    color: #808080;
+    font-size: 15px;
+    margin: 5px 0px 0px 5px;
+}
+
+.textoServiciosInactivoCuadros {
+    color: #fff5d2;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 5px 0px 0px 0px;
+}
+
+.textoTitulosFormularios {
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoSubtitulos {
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+    /* texto inclinado*/
+}
+
+.textoNegroS21W700U {
+    color: #000;
+    font-size: 21px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoGrisS21W700U {
+    color: #808080;
+    font-size: 21px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.titulo-modal {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.modal-body {
+    color: #667085;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+}
+
+.textoReferenciaEdicion {
+    font-weight: 700;
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+}
+
+.tituloEdicionEdicion {
+    background-color: #ffffff;
+    color: #000;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 0px 0px 20px 0px;
+}
+
+.tituloLogo {
+    color: #ff9fdd;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.textoCargandoEdicionesProductos {
+    color: #808080;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 150px 0px 0px 0px;
+    width: 200px;
+}
+
+.textoEstatusPago {
+    color: #585858;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0px 0px 0px 5px;
+    text-transform: uppercase;
+}
+
+.fechasMisServicios {
+    color: #585858;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.textoTotalVentaDescripcion {
+    color: #808080;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.textoVerRecibo {
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.tituloSeleccionBaseEditar {
+    color: #585858;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.ifnfoProductos {
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 0px 0px 0px 10px;
+}
+
+.textoCargandoEdiciones {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.textoBoton {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.textoCategorias {
+    color: #000;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+
+
+.textoMostrarMas {
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.textoSeleccionCiudadCita {
+    color: #000;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.divTitulo {
+    align-items: center;
+    border-radius: 20px;
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    margin: 20px 0px 20px 0px;
+    width: 100%;
+}
+
+.divTextoEleccion {
+    background-color: hsla(0, 0%, 86%, .7);
+    margin: 5px;
+}
+
+.errorAqui {
+    color: orange;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0px 0px 0px 5px;
+}
+
+.textoTituloFormularioRegistro {
+    color: #585858;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.textoTotalVentaMonto {
+    color: #4935fd;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.tituloObservacionTratamiento {
+    color: #808080;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.textoGris17700 {
+    color: #808080;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.textoGris17700Upper {
+    color: #808080;
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* c585858fs17fw700u */
+
+.c585858fs17fw700u {
+    color: #585858;
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.Label {
+    color: #555;
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0px 5px 0px 10px;
+}
+
+.cantidadSesiones {
+    color: #808080;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.textoBotonEditarFicha {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.textoNombreCliente {
+    color: #808080;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 10px 0px 0px 0px;
+    text-transform: uppercase;
+}
+
+.textoServioPorRealizar {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0px 30px 0px 0px;
+    text-transform: uppercase;
+}
+
+.textoTituloPrecio {
+    background-color: #42da4f;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 0px 10px 0px 10px;
+}
+
+.textoImprimir {
+    color: #5353ff;
+    font-weight: 700;
+    margin: 0px 7px 0px 0px;
+    text-transform: uppercase;
+}
+
+.tituloProducto {
+    display: flex;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 10px 0px 5px 10px;
+    text-align: left;
+}
+
+.tituloProductoDetallado {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 15px 0px 0px 0px;
+}
+
+.textareaEdicion2 {
+    font-size: 17px;
+    font-weight: 500;
+    text-align: left;
+    padding: 1px 0px 0px 30px;
+    border: none;
+    resize: none;
+    height: 30px;
+    line-height: 30px;
+    width: 80%;
+    background-color: white;
+}
+
+.textareaEdicion2:focus {
+    outline: lightgray solid 1px;
+}
+
+.textareaEdicion3 {
+    font-size: 17px;
+    font-weight: 500;
+    text-align: left;
+    padding: 1px 0px 0px 5px;
+    border: none;
+    resize: none;
+    height: 30px;
+    line-height: 30px;
+    background-color: white;
+}
+
+.textareaEdicion4 {
+    font-size: 17px;
+    font-weight: 500;
+    text-align: left;
+    padding: 1px 0px 0px 5px;
+    border: none;
+    resize: none;
+    height: 30px;
+    line-height: 30px;
+    width: 240px;
+}
+
+.iconoFormulario2 {
+    font-size: 20px;
+    color: #FEBA20;
+    position: absolute;
+    left: 80;
+    top: 18;
+}
+
+.textareaEdicion {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    border: none;
+    /*outline: none;*/
+    resize: none;
+    height: 18px;
+    line-height: 18px;
+}
+
+
+.textAreaComparar {
+    width: 50%;
+}
+
+.botonPalma {
+    align-items: center;
+    border: 1px solid #000;
+    border-radius: 20px;
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    margin: 130px 20px 10px 20px;
+    width: 150px;
+}
+
+.botonSoya {
+    align-items: center;
+    border: 1px solid orange;
+    border-radius: 20px;
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    margin: 10px 20px 20px 20px;
+    width: 150px;
+}
+
+.divPortadaCarrusel {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+}
+
+.divBarraTitulos {
+    align-items: center;
+    background-color: #FEBA20;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    margin: 0px 0px 30px 0px;
+    width: 100%;
+}
+
+.divDivider {
+    margin: 0px auto 0px auto;
+    width: 100%;
+    background-color: #808080;
+    height: 1px;
+}
+
+.divDivider1 {
+    background-color: #E6E6E6;
+    width: 100%;
+    height: 1px;
+}
+
+.divDividerLightgrey {
+    margin: 0px auto 0px auto;
+    width: 100%;
+    background-color: #d3d3d3;
+    height: 1px;
+}
+
+.divListItemServicios {
+    height: 80vh;
+}
+
+.iconoFlechaVolver {
+    font-size: 35px;
+    margin: 15px 0px 0px 15px;
+    color: #646464;
+}
+
+.alineacionVertical {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.divMensajePorCuidado {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    text-align: center;
+}
+
+.textoPorCuidado {
+    color: #ff9900;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.textoPorCuidado2 {
+    color: #808080;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.alineacionVerticalPantallaCompleta {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    justify-content: center;
+    width: 100%;
+}
+
+.alineacionVerticalFlexEspera {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.alineacionVerticalSinWidth {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.alineacionVerticalSinFlexEnd {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.alineacionHorizontaljustificaconsSpaceAround {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+}
+
+.alineacionHorizontaljustificaconsSpaceBetween {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+}
+
+.divRegistro {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: center;
+    width: 100%;
+}
+
+.divTextoRegistro {
+    margin: 0px 0px 30px 0px;
+}
+
+.alineacionHorizontalJustificada {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.alineacionHorizontalFlexwrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.alineacionVerticalDerecha {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.alineacionBarraDeBusqueda {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0px 0px 5px 0px;
+    width: 250px;
+}
+
+.iconosBarraDeBusqueda {
+    height: 20px;
+    position: relative;
+    left: 40;
+    top: 18;
+    color: #FEBA20;
+}
+
+.imagenVeintePorciento {
+    height: 70px;
+    position: fixed;
+    left: 90;
+    top: 300;
+}
+
+.casillaBarraDeBusqueda {
+    margin: 10px 30px 10px 0px;
+    border-radius: 20px;
+    width: 300px;
+    border: solid 1px #FEBA20;
+    padding: 10px 20px 10px 50px;
+    font-size: 15px;
+    background-color: #ffffff;
+}
+
+.casillasLogin {
+    border: solid 1px lightgray;
+    font-size: 17px;
+    height: 30px;
+    padding: 0px 0px 0px 10px;
+    outline: none;
+    width: 250px;
+}
+
+.casillasLoginNombre {
+    border: solid 1px lightgray;
+    font-size: 17px;
+    height: 30px;
+    padding: 0px 0px 0px 10px;
+    outline: none;
+    width: 250px;
+    text-transform: capitalize;
+}
+
+.casillaFormularioCompra {
+    border: solid 1px lightgray;
+    font-size: 17px;
+    height: 30px;
+    padding: 0px 0px 0px 10px;
+    outline: none;
+    width: 250px;
+}
+
+.divOlvidasteContrasena {
+    display: flex;
+    justify-content: flex-end;
+    height: 33px;
+    width: 226px;
+}
+
+.textoOlvidasteContrasena {
+    margin: 5px 5px 0px 0px;
+    font-size: 14px;
+    color: #26378D;
+    cursor: pointer;
+}
+
+.boton1 {
+    width: 130px;
+    height: 35px;
+    border-radius: 20px;
+    display: flex;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+    cursor: pointer;
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+}
+
+.boton2 {
+    width: 185px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 0px 5px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+    background: linear-gradient(90deg, #26378D 30%, #4090D1 90%);
+    box-shadow: 0px 0px 5px 0px #d3d3d3;
+}
+
+.botonButton {
+    width: 185px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 0px 5px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+    background: linear-gradient(90deg, #26378D 30%, #4090D1 90%);
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+.boton3 {
+    width: 160px;
+    height: 35px;
+    border-radius: 25px;
+    border: none;
+    padding: 5px 0px 5px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: bold;
+    background-color: #FEBA20;
+}
+
+.divTablaProductos {
+    max-width: 800px;
+    margin: 0px auto 30px auto;
+}
+
+.divIndiqueLasSesiones {
+    margin: 0px 0px 20px 0px;
+}
+
+.masMenosCantidad {
+    margin: 10px 0px 10px 0px;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    background-color: antiquewhite;
+}
+
+.divCasillasLogin {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.divCasillasRegistrarse {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textoRegistrarse {
+    color: #000;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.divErrorAlert {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    width: 290px;
+    background-color: #fdeded;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 0px #d3d3d3;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.tituloErrorAlert {
+    font-size: 20px;
+    font-weight: 600;
+    color: #5f2120;
+    margin-bottom: 5px;
+}
+
+.iconoCerrarErrorAlert {
+    font-size: 20px;
+    color: #5f2120;
+}
+
+.mensajeErrorAlert {
+    font-size: 15px;
+    font-weight: 400;
+    color: #5f2120;
+    margin-bottom: 10px;
+}
+
+.textoRegistrarseResaltado {
+    color: #4090D1;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.alineacionListaProductosDetallados {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.divTextoRegistroLogin {
+    height: 30px;
+    margin: auto auto 0px auto;
+}
+
+.recuadroDeRecibo {
+    box-shadow: 0px 0px 5px 0px #808080;
+    /*background-color: #ffffff;*/
+    padding: 15px;
+    width: 285px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.divIzquierdaColumn100 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.divIzquierdaRow100 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.divIconoCerrarSesion {
+    align-items: flex-end;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.textoCerrarSesion {
+    color: #808080;
+    font-size: 11px;
+    cursor: pointer;
+}
+
+.iconoAccion {
+    color: #808080;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.divTituloDetallesItem {
+    display: flex;
+    flex-direction: row;
+    width: 285px;
+}
+
+.divListaProductosDetallados {
+    display: flex;
+    width: 270px;
+    justify-content: space-around;
+}
+
+.cantValor {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.reciboReferenciaProducto {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.spanCantDetalleValor {
+    font-size: 15px;
+    color: #000;
+}
+
+.parrafoDescripcionServicio {
+    font-size: 15px;
+    color: #000;
+    text-align: left;
+    max-width: 320px;
+    margin: 0px 0px 30px 0px;
+}
+
+.datosClienteRecibo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0px 15px;
+    margin: 0px 0px 10px 0px;
+    width: 100%;
+}
+
+
+
+.divPrincipalRecibo {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+    padding: 20px 0px 40px 0px;
+}
+
+.divAlineacionWhatsapp {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 300px;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+}
+
+.divBotonImprimir {
+    width: 130px;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid green;
+    border-radius: 15px;
+    align-content: center;
+    padding: 0px 5px;
+    margin: 0px 0px 0px 0px;
+    cursor: pointer;
+}
+
+.nombrePropiedad {
+    width: 100px;
+    height: 20px;
+    border: none;
+    padding: 5px 0px 10px 10px;
+    font-size: 15px;
+    color: #000;
+    background-color: #ffffff;
+    outline: none;
+}
+
+.alineacionCasillaEdicionFormularios {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    margin: 5px 0px 5px 0px;
+    width: 320px;
+    height: 20px;
+}
+
+
+.casillaFormularioDos {
+    height: 20px;
+    border: none;
+    font-size: 15px;
+    color: #000;
+    outline: none;
+    margin: 0px 0px 0px 10px;
+    resize: none;
+}
+
+.casillaFormularioTres {
+    height: 20px;
+    border: none;
+    font-size: 14px;
+    color: #000;
+    outline: none;
+    padding: 0px 0px 3px 10px;
+    resize: none;
+}
+
+.alineacionHorizontalLeft {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 90%;
+}
+
+.casillaFormularioTiempo {
+    height: 25px;
+    width: 40px;
+    padding: 0px 0px 0px 5px;
+    font-size: 20px;
+    margin: 0px 10px 10px 10px;
+    border: 1px solid #d3d3d3;
+}
+
+.dosPuntos {
+    font-size: 20px;
+    margin: 0px 0px 15px 0px;
+}
+
+.textoJornadas {
+    font-size: 15px;
+    color: #000;
+    width: 140px;
+    text-transform: uppercase;
+}
+
+
+.casillasFecha {
+    resize: none;
+    font-size: 25px;
+    height: 30px;
+    width: 100px;
+}
+
+.casillaFormulario {
+    height: 20px;
+    border: none;
+    padding: 5px 0px 5px 0px;
+    font-size: 15px;
+    color: #000;
+    background-color: #ffffff;
+    outline: none;
+    resize: none;
+}
+
+.casillaFormulario:focus {
+    border: none;
+    padding: 5px;
+    font-size: 15px;
+    color: #000;
+    background-color: #ffffff;
+    outline: none;
+}
+
+.casillaFormularioDescripcion {
+    width: 100%;
+    height: 100%;
+    border: none;
+    padding: 5px 0px 5px 15px;
+    margin: 5px 0px 0px 0px;
+    font-size: 15px;
+    color: #000;
+    border: 1px solid #808080;
+    outline: none;
+}
+
+.divBarraTituloRegistroClientes {
+    margin: 20px 0px 20px 0px;
+    background-color: #FEBA20;
+    width: 265px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.casillaBarraBusqueda {
+    background-color: #ffffff;
+    border: solid 2px #feba20;
+    border-radius: 20px;
+    color: #000;
+    font-size: 15px;
+    margin: 10px 30px 10px 0px;
+    outline: none;
+    padding: 10px 20px 10px 50px;
+    width: 300px;
+}
+
+.iconoBarraBusqueda {
+    color: #feba20;
+    font-size: 22px;
+    left: 40px;
+    top: 0px;
+    width: 28px;
+}
+
+.textoMovido {
+    color: #000;
+    font-size: 22px;
+    /*background: linear-gradient(90deg, #f3d07f 30%, #f6e597 90%);*/
+    background-color: #ffffff;
+    padding: 5px 10px;
+    /*border:  2px solid lightgray;*/
+    border-radius: 10px;
+    font-weight: 700;
+    box-shadow: 0px 0px 5px 0px lightgrey;
+}
+
+.divTexMovido {
+    left: 20px;
+    top: -70px;
+    width: 28px;
+    width: 70%;
+    /*aqui*/
+    cursor: pointer;
+    border: none;
+}
+
+.divTextoIndicacionesFormulario {
+    margin: 0px 0px 20px 0px;
+}
+
+.spanCasillaFormulario {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 15px;
+    color: #000;
+    font-weight: 700;
+}
+
+.divDividerFormulario {
+    margin: 0px auto 10px auto;
+    width: 100%;
+    background-color: lightgray;
+    height: 1px;
+}
+
+.alineacionCasillaFormulario {
+    display: flex;
+    flex-direction: row;
+}
+
+.iconoFormulario {
+    font-size: 20px;
+    color: #FEBA20;
+}
+
+.divPrincipalItemDetail {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.divSalirvolverProductosDetallados {
+    width: 100%;
+    cursor: pointer;
+}
+
+.divImagenProducto {
+    margin: auto 0px auto 0px;
+    width: 355px;
+    height: 355px;
+}
+
+.divDatosOpcionesProducto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto 50px auto 50px;
+}
+
+.divDatosProductosDetalle {
+    padding: 10px 0px 20px 0px;
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.textoDetalleProductos {
+    font-size: 17px;
+    margin: 5px 0px 5px 0px;
+}
+
+.textoDescripcionDetalleProductos {
+    font-size: 17px;
+    margin: 0px 0px 5px 0px;
+}
+
+.parrafoDescripcion {
+    color: #000;
+    font-size: 17px;
+    width: 330px;
+}
+
+.divCantidadMasCarro {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 70px 0px;
+}
+
+.divIndicacinesRecibo {
+    margin: 30px 0px 20px 0px;
+}
+
+.textoNombreClienteRecibo {
+    color: #000;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.divOrganizacionSubDetallesProductos {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    flex-direction: row;
+    width: 100%;
+}
+
+.alineacionListaProductosDetalladosDos {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.divRecibo {
+    background-color: #ffffff;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    min-width: 345px;
+    padding: 30px 20px;
+    width: 270px;
+    text-align: center;
+}
+
+.sombraRecibo {
+    box-shadow: 0px 0px 5px 0px #808080;
+}
+
+.divFechaDisponible {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+    border: 1px solid #FEBA20;
+    border-radius: 15px;
+    margin: 15px;
+    cursor: pointer;
+    width: 320px;
+    height: 50px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000;
+}
+
+.divTituloClienteSeleccioneEldia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto 10px auto;
+    text-align: center;
+    flex-direction: column;
+}
+
+.divClienteSeleccioneEldia {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    margin: 0px 0px 20px 0px;
+    align-items: center;
+}
+
+.divNoHayDisponibles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 60vh;
+    width: 100%;
+}
+
+.textoNoHayDisponibles {
+    font-style: oblique;
+    font-size: 20px;
+    width: 300px;
+    color: #000;
+}
+
+.textoPuntoReferenciaSeleccionado {
+    font-style: oblique;
+    font-size: 16px;
+    width: 320px;
+    color: #000;
+}
+
+.alineacionHoraDisponible {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px 10px 10px 10px;
+    align-items: center;
+}
+
+.alineacionListServicios {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+    margin: 0px 0px 20px 0px;
+    align-items: center;
+}
+
+.alineacionIconoSeleccion {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    margin: 0px 0px 0px 0px;
+    width: 320px;
+}
+
+.listaDesplegableHorarios {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    margin: 10px 0px 10px 0px;
+}
+
+.divOpcionDesplegableHorarios {
+    margin: 5px 0px 5px 15px;
+}
+
+.textoListaDesplegableHorarios {
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.react-calendar {
+    width: 350px;
+    max-width: 100%;
+    background: #ffffff;
+    border: 1px solid #a0a096;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+}
+
+.react-calendar--doubleView {
+    width: 700px;
+}
+
+.react-calendar--doubleView .react-calendar__viewContainer {
+    display: flex;
+    margin: -0.5em;
+}
+
+.react-calendar--doubleView .react-calendar__viewContainer>* {
+    width: 50%;
+    margin: 0.5em;
+}
+
+.react-calendar,
+.react-calendar *,
+.react-calendar *:before,
+.react-calendar *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.react-calendar button {
+    margin: 0;
+    border: 0;
+    outline: none;
+}
+
+.react-calendar button:enabled:hover {
+    cursor: pointer;
+}
+
+.react-calendar__navigation {
+    height: 44px;
+    margin-bottom: 1em;
+}
+
+.react-calendar__navigation button {
+    min-width: 44px;
+    background: none;
+}
+
+.react-calendar__navigation button:enabled:hover,
+.react-calendar__navigation button:enabled:focus {
+    background-color: #e6e6e6;
+}
+
+.react-calendar__navigation button[disabled] {
+    background-color: #f0f0f0;
+}
+
+.react-calendar__month-view__weekdays {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.75em;
+}
+
+.react-calendar__month-view__weekdays__weekday {
+    padding: 0.5em;
+}
+
+.react-calendar__month-view__weekNumbers {
+    font-weight: 700;
+}
+
+.react-calendar__month-view__weekNumbers .react-calendar__tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75em;
+    padding: calc(0.75em / 0.75) calc(0.5em / 0.75);
+}
+
+.react-calendar__month-view__days__day--weekend {
+    color: #d10000;
+}
+
+.react-calendar__month-view__days__day--neighboringMonth {
+    color: #757575;
+}
+
+.react-calendar__year-view .react-calendar__tile,
+.react-calendar__decade-view .react-calendar__tile,
+.react-calendar__century-view .react-calendar__tile {
+    padding: 2em 0.5em;
+}
+
+.react-calendar__tile {
+    max-width: 100%;
+    text-align: center;
+    padding: 0.75em 0.5em;
+    background: none;
+}
+
+.react-calendar__tile:disabled {
+    background-color: #f0f0f0;
+}
+
+.react-calendar__tile:enabled:hover,
+.react-calendar__tile:enabled:focus {
+    background-color: #e6e6e6;
+}
+
+.react-calendar__tile--now {
+    background: #ffff76;
+}
+
+.react-calendar__tile--now:enabled:hover,
+.react-calendar__tile--now:enabled:focus {
+    background: #ffffa9;
+}
+
+.react-calendar__tile--hasActive {
+    background: #76baff;
+}
+
+.react-calendar__tile--hasActive:enabled:hover,
+.react-calendar__tile--hasActive:enabled:focus {
+    background: #a9d4ff;
+}
+
+.react-calendar__tile--active {
+    background: #006edc;
+    color: #ffffff;
+}
+
+.react-calendar__tile--active:enabled:hover,
+.react-calendar__tile--active:enabled:focus {
+    background: #1087ff;
+}
+
+.react-calendar--selectRange .react-calendar__tile--hover {
+    background-color: #e6e6e6;
+}
+
+.divPrincipalformularioRegistroClientes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.formularioRegistroClientes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 0px 0px;
+    margin: 20px 10px 0px 10px;
+    max-width: 320px;
+}
+
+.divTextoRegistroExitoso {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0px 0px 0px;
+}
+
+.divBotonRegistrarCliente {
+    width: 130px;
+    height: 35px;
+    border-radius: 20px;
+    display: flex;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+    cursor: pointer;
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+}
+
+.contenedorBotonesAccionesFiltroServicios {
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.botonAccionesFiltroClientes {
+    /*border: 1px solid #FEBA20;*/
+    /* borde only bottom */
+    border: none;
+    background-color: #ffffff;
+    /*border-radius: 15px;*/
+    color: #000;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    height: 30px;
+    margin: 0px 1px 0px 1px;
+    padding: 0 5px;
+    text-align: center;
+    text-decoration: none;
+    width: 80px;
+}
+
+.contenedorVistasAccionesFiltroServicios {
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.contenedorAccionesFiltroClientes {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alineacionBotonBarraInferior {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lineaInferiorAccionesClientes {
+    width: 100%;
+    height: 2px;
+    background-color: #FEBA20;
+    margin: 0px 0px 0px 0px;
+}
+
+.divImagenInfoResumida {
+    text-align: center;
+    width: 350px;
+    flex-direction: column;
+    margin: 10px 10px 10px 10px;
+    height: 350px;
+    border: solid 1px #fcefbd;
+    border-radius: 15px;
+    padding: 15px 0px 0px 0px;
+}
+
+.divDividerItem {
+    width: 100%;
+    background-color: lightgray;
+    height: 1px;
+}
+
+.divIfnfoProductos {
+    justify-content: left;
+    display: flex;
+    flex-direction: row;
+}
+
+.divIconosOpcionesItem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.divPrecio {
+    width: 50%;
+    display: flex;
+    height: 25px;
+    margin: 7px 7px 7px 1px;
+    align-items: center;
+}
+
+.divOpcionesItem {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.estiloOpcionesItem {
+    font-size: 27px;
+    margin: 7px 8px 5px 5px;
+    color: #465798;
+}
+
+.divPricipalItem {
+    text-align: center;
+    max-width: 355px;
+    flex-direction: column;
+    margin: 11px 15px 0px 15px;
+    border-radius: 10px;
+}
+
+.divPricipalItem2 {
+    text-align: center;
+    max-width: 355px;
+    flex-direction: column;
+    margin: 11px 15px 0px 15px;
+    padding: 5px 0px 10px 0px;
+    box-shadow: 0px 0px 5px 0px lightgray;
+    border-radius: 10px;
+}
+
+.divPricipalItem3 {
+    text-align: center;
+    max-width: 355px;
+    flex-direction: column;
+    margin: 11px 15px 0px 15px;
+    padding: 5px 0px 10px 0px;
+}
+
+.divPricipal {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px 0px 30px 0px;
+    align-items: center;
+}
+
+.divTituloProducto {
+    display: flex;
+    justify-content: left;
+}
+
+.pruebaColor {
+    color: #fff7f7
+}
+
+.divTalla {
+    display: flex;
+    justify-content: flex-start;
+    margin: 0px 0px 5px 0px;
+}
+
+.iconosOpcionesItem {
+    font-size: 25px;
+}
+
+.divActivoTextoDescripcionProducto {
+    text-align: justify;
+    margin: 0px 10px 10px 10px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.tituloDescripcion {
+    font-size: 16px;
+}
+
+.replegarDescripcion {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.divInactivoTextoDescripcionProducto {
+    margin: 0px 10px 10px 10px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.iconosExpandirContraerDescripcionItem {
+    font-size: 25px;
+    color: #000;
+}
+
+.paperServicios {
+    position: "absolute";
+    width: "60%";
+    height: 100%;
+    /* backgroundColor: theme.palette.background.paper; */
+    border: "2px solid #000";
+    /* boxShadow: theme.shadows[5]; */
+    /* padding: theme.spacing(2, 4, 3); */
+}
+
+.camposText {
+    margin: "60px 0px 10px 0px";
+    border-radius: 12px;
+    border: solid 1px #d3d3d3;
+    padding: 10px 0px 10px 5px;
+    font-size: 15px;
+    background-color: #ffffff;
+}
+
+.camposTextDos {
+    margin: 15px 0px 50px 0px;
+    border-radius: 12px;
+    border: solid 1px #d3d3d3;
+    padding: 10px 0px 10px 5px;
+    font-size: 15px;
+    background-color: #ffffff;
+}
+
+.camposTextDescripcion {
+    margin: 5px 0px 30px 0px;
+    border-radius: 15px;
+    border: solid 1px #d3d3d3;
+    padding: 10px 0px 10px 5px;
+    font-size: 15px;
+    background-color: #ffffff;
+}
+
+.Container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 1px solid #ccc; */
+    padding: 0px 0px 15px 0px;
+    border-radius: 5px;
+    width: 320px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.20);
+    border-radius: 25px;
+}
+
+.divDatosFichaCliente {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.InfoContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.InfoItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.Icon {
+    margin-right: 10px;
+    color: #555;
+}
+
+.Value {
+    color: #555;
+    font-size: 17px;
+}
+
+.divMarginFichaCliente {
+    margin: 5px 0px 5px 0px;
+}
+
+.divIconoCliente {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+    background-color: #FEBA20;
+    width: 100%;
+    height: 65px;
+    border-radius: 25px 25px 0px 0px;
+}
+
+.divBotonEditarFicha {
+    width: 160px;
+    height: 35px;
+    border-radius: 25px;
+    border: none;
+    padding: 5px 0px 5px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px 10px 0px;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: bold;
+    background-color: #FEBA20;
+}
+
+.divServioPorRealizar {
+    width: 80%;
+    background-color: #FEBA20;
+    padding: 7px 0px 7px 20px;
+    margin: 0px 0px 10px 0px;
+    border-radius: 0px 0px 25px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.20);
+}
+
+.divTotalVentaServicio {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    margin: 0px 0px 10px 0px;
+}
+
+.casillaDescripcionServicio {
+    width: 100%;
+    height: 70px;
+    border: none;
+    padding: 5px 5px 5px 5px;
+    font-size: 15px;
+    outline: none;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.casillaDescripcionServicio2 {
+    width: 275px;
+    height: 70px;
+    border: none;
+    padding: 5px 5px 5px 5px;
+    font-size: 15px;
+    outline: none;
+    border-radius: 10px;
+    color: #808080;
+    background-color: #ffffff;
+}
+
+.casillaDescripcionServicio3 {
+    width: 275px;
+    height: 70px;
+    border: none;
+    resize: none;
+    padding: 5px 5px 5px 5px;
+    font-size: 15px;
+    border-radius: 10px;
+    color: #808080;
+    background-color: #ffffff;
+}
+
+.divCasillaDescripcionServicio2 {
+    margin: 10px 10px 15px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.divCasillaDescripcionServicio {
+    margin: 10px 10px 15px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightgray;
+    background-color: #ffffff;
+}
+
+
+
+.divTituloObservacionTratamiento {
+    margin: 15px 15px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconosServicios {
+    color: #808080;
+    font-size: 17px;
+}
+
+.contenedorBotonEditarServicio {
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    flex-direction: row;
+    margin: 0px 0px 0px 0px;
+    cursor: pointer;
+}
+
+.curvaBotonEditar {
+    display: flex;
+    background-color: #FEBA20;
+    border-radius: 0px 0px 0px 25px;
+    width: 40px;
+    height: 30px;
+    margin: 0px 0px 0px 0px;
+}
+
+.divBotonEditarServicio {
+    display: flex;
+    background-color: #FEBA20;
+    justify-content: center;
+    align-items: center;
+    width: 110px;
+    height: 30px;
+    border-radius: 0px 0px 0px 25px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.20);
+}
+
+.iconoEditarServicio {
+    color: #ffffff;
+    font-size: 25px;
+    margin: 0px 5px 0px 0px;
+}
+
+.marginEdicionFiltroServiciosClientes {
+    margin: 0px 0px 5px 0px;
+}
+
+.divFichaServicioCliente {
+    /*box-shadow: 1px 1px 5px 0px #808080;*/
+    box-shadow: 0px 0px 5px 0px #d3d3d3;
+    border-radius: 25px;
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #ffffff;
+    width: 340px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+
+.casillaEstatusServicos {
+    width: 100%;
+    padding: 0px 0px 0px 15px;
+    display: flex;
+    align-items: center;
+}
+
+.divTotalDatos {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divArrowDropUpPrecio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    flex-direction: column;
+    margin: 0px 0px 0px 0px;
+}
+
+.arrowDropUpIcon {
+    color: #f831ff;
+    font-size: 25px;
+}
+
+.divCasillaEstatusServicosDescripcion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0px 5px 0px;
+}
+
+.divPrincipalErrorVolver {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.errorVolver {
+    color: #808080;
+    font-size: 20px;
+}
+
+.divPrincipal {
+    z-index: 5;
+    position: fixed;
+    bottom: 100;
+    left: 60;
+    width: 40px;
+    height: 40px;
+}
+
+.divTituloFormularioRegistro {
+    margin: 20px 0px 40px 0px;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+.divMarcoImagenCategorias {
+    text-align: center;
+    width: 320px;
+    margin: 30px 15px 30px 15px;
+    height: 320px;
+    background-color: #ffffff;
+    border: solid 2px #FEBA20;
+    /* border-radius: 100%; marco en circulo */
+
+}
+
+.divTextoSeleccioneCategoria {
+    display: flex;
+    justify-content: center;
+    margin: 15px 0px 0px 0px;
+}
+
+.textoSeleccioneCategoria {
+    font-style: oblique;
+    font-size: 20px;
+    color: #000;
+}
+
+.avisoDiaseleccionado {
+    font-style: oblique;
+    font-size: 20px;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.divImagenCategorias {
+    font-size: 25px;
+    width: 350px;
+    color: #ffd700;
+    height: 350px;
+    cursor: pointer;
+}
+
+.divImagenCategoriasCentro {
+    font-size: 25px;
+    width: 350px;
+    color: #ffd700;
+    height: 350px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contenedorDivTextoEleccion {
+    flex-direction: column;
+    width: 250px;
+}
+
+.divIfnfoProductos2 {
+    font-size: 25px;
+    justify-content: center;
+    font-weight: 700;
+    color: #000;
+    background-color: rgba(245, 245, 245, .7);
+    cursor: pointer;
+    padding: 10px;
+    text-transform: uppercase;
+    width: 300px;
+    margin: 0px auto 0px auto;
+}
+
+.imagenesCategorias {
+    width: 320px;
+    height: 320px;
+}
+
+.divImagenMovida {
+    display: flex;
+    position: relative;
+    bottom: 100;
+}
+
+.alineacionCategoriasProductos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+    margin: 0px 0px 20px 0px;
+    align-items: center;
+}
+
+.alice-carousel__play-btn {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: unset !important;
+    bottom: 65px !important;
+    left: 282px !important;
+    z-index: 10;
+}
+
+.alice-carousel__play-btn-wrapper,
+.alice-carousel__play-btn-item.__pause {
+    width: 25px !important;
+    height: 25px !important;
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    justify-content: center !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.alice-carousel__play-btn-item.__pause::before {
+    height: 16px !important;
+    left: 2 !important;
+    border-width: 0 0 0 6px !important;
+}
+
+.alice-carousel__play-btn-item.__pause::after {
+    height: 16px !important;
+    left: 14px !important;
+    top: 4px !important;
+    border-width: 0 0 0 6px !important;
+}
+
+.alice-carousel__play-btn-item {
+    width: 16px !important;
+    height: 16px !important;
+}
+
+.alice-carousel__play-btn-item::before {
+    height: 0px !important;
+}
+
+.alice-carousel__play-btn-item::after {
+    top: 0 !important;
+    left: 5px !important;
+}
+
+.alice-carousel {
+    position: relative !important;
+}
+
+.alice-carousel__dots {
+    position: absolute !important;
+    bottom: 25px !important;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.alice-carousel__dots-item {
+    width: 10px !important;
+    height: 10px !important;
+}
+
+.alice-carousel__dots-item.__active {
+    background-color: #465798 !important;
+}
+
+.divMasMenosCantidad {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+    height: 50px;
+    color: #808080;
+}
+
+.textoCantidadNumero {
+    font-size: 25px;
+    color: #000;
+    margin: 0px 0px 0px 0px;
+    text-transform: uppercase;
+}
+
+.divSeleccionCiudadCita {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px 0px 0px 0px;
+}
+
+.contenedorCiudadesCitaClientes {
+    max-width: 700px;
+    height: 100%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.divCiudadesCitaClientes {
+    margin: 10px 0px 10px 0px;
+}
+
+.divVolverMasCategorias {
+    display: flex;
+    flex-direction: row;
+}
+
+.divVolverCategorias {
+    background-color: #ffffff;
+    margin: 10px 0px 0px 10px;
+}
+
+.divTextoCategorias {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 45px 0px 0px;
+}
+
+.inactivo {
+    background-image: linear-gradient(to right, #42da4f, #52ff7e, #42da4f);
+}
+
+.divTextoMostrarMas {
+    display: flex;
+    width: 145px;
+    height: 40px;
+    background-color: #ffffff;
+    margin: 25px auto 30px auto;
+    border: solid 2px #808080;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.divNoHayMasResultados {
+    display: flex;
+    margin: 0px auto 0px auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto 30px auto;
+}
+
+.contenedorOrdenes {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0px 0px 40px 0px;
+}
+
+.divPublicacionesEdicion2 {
+    display: flex;
+    justify-content: center;
+}
+
+.divEstiloListaEdicion2 {
+    width: 100%;
+}
+
+.referenciaBotonesEdicion2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: flex-end;
+}
+
+.botonesPagos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 50px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px 0px #d3d3d3;
+}
+
+.cargandoEdiciones {
+    width: 100%;
+    height: 100vh;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cargandoEdicionesProductos {
+    width: 100%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px 20px 0px 20px;
+}
+
+.divPrincipalFuncionesVentas {
+    /*box-shadow: 1px 1px 5px 0px #808080;*/
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.20);
+    border-radius: 25px;
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*background-color: #ffffff; */
+    width: 340px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    /*position: fixed;
+    width: 300px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;*/
+    /*box-shadow: 1px 1px 2px #888;*/
+    /*z-index: 1000;
+    /*animation: pulsate 1.2s ease-in-out infinite;
+    animation: zoom-in-zoom-out 1.5s ease infinite;*/
+}
+
+.divTituloSeleccionBaseEditar {
+    margin: 20px 0px 20px 0px;
+    width: 100%;
+    background-color: #000;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+.divEditarEstatus {
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    background-color: transparent;
+}
+
+.divEditIcon {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #808080;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 20px 0px 10px;
+    cursor: pointer;
+}
+
+.editIcon {
+    color: #808080;
+    font-size: 25px;
+}
+
+.divTextoTotalVentaDescripcion {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.divDatosContacto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    flex-direction: column;
+}
+
+.divNombreCliente {
+    background-color: #ffffff;
+    height: 20px;
+}
+
+.divEstatus {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+}
+
+.divClienteRecibo {
+    display: flex;
+    width: 70%;
+    background-color: #ffffff;
+    margin: 5px 0px 5px 0px;
+    text-align: center;
+    justify-content: center;
+}
+
+.divEstatusPago {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 250px;
+    background-color: #ffffff;
+    margin: 5px 0px 5px 0px;
+}
+
+.divVerRecibo {
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto auto 0px auto;
+}
+
+.estiloListaEdicion {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.alineacionHorizontalEdicion {
+    display: flex;
+    flex-direction: row;
+    background-color: #ffffff;
+    width: 335px;
+    border: solid 1px #000;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    justify-content: space-around;
+}
+
+.alineacionHorizontalReciboVenta {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+}
+
+.imagenEdicion {
+    width: 150px;
+    height: 150px;
+    margin: 5px 5px 5px 5px;
+}
+
+.camposEditarEdicion {
+    margin: '10px 0px 10px 0px';
+    border-radius: '20px';
+    width: '300px';
+    border: 'solid 1px #000';
+    padding: '10px 20px 10px 20px';
+    font-size: '15px';
+    background-color: '#ffffff';
+    color: aqua;
+}
+
+.divCasillaEdicionEdicion {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    background-color: #ffffff;
+    border: solid 1px #000;
+    padding: 5px 20px 7px 20px;
+    margin: 10px 0px 0px 0px;
+    border-radius: 15px;
+    width: 290px;
+}
+
+.alineacionItemList {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+    margin: 0px 0px 20px 0px;
+}
+
+.divLogoBd {
+    text-align: center;
+    flex-direction: column;
+}
+
+
+.divBurgerCategorias {
+    display: flex;
+    align-items: left;
+}
+
+.divTextosburgerCategorias {
+    color: #808080;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 5px 15px 5px 20px;
+}
+
+.modal {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal2 {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.contenido-modal {
+    width: 400px;
+    height: 268px;
+    background-color: #ffffff;
+    border: solid 1px #808080;
+    border-radius: 12px;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.circle-big-icon-modal {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 10px 0px;
+}
+
+.circle-medium-icon-modal {
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alineacion-button-modal {
+    display: flex;
+    flex-direction: row;
+}
+
+.button-cancel-modal {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 18px;
+    gap: 8px;
+    width: 170px;
+    height: 44px;
+    background: #FFFFFF;
+    border: 1px solid #D0D5DD;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+    margin: 5px;
+}
+
+.button-confirm-modal {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 18px;
+    gap: 8px;
+    width: 170px;
+    height: 44px;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+    margin: 5px;
+}
+
+.divNavbarVanilla {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    height: 80px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.iconoMenu {
+    color: #FEBA20;
+    font-size: 28px;
+    margin: 0px 0px 0px 20px;
+    cursor: pointer;
+}
+
+.menuCategorias {
+    background-color: #ffffff;
+    color: #000;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    top: 0px;
+    text-align: center;
+    z-index: 3;
+    width: 200px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 0px #808080;
+    padding: 15px 0px 0px 0px;
+}
+
+.divCategoriaMinimizada {
+    display: flex;
+    flex-direction: row;
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.divCategoriaExpandida {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.divCategoria {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.categorias {
+    color: #000;
+    display: flex;
+    font-size: 16px;
+    margin: 12px 0px 12px 20px;
+}
+
+.subCategorias {
+    color: #000;
+    display: flex;
+    font-size: 16px;
+    margin: 12px 0px 12px 40px;
+}
+
+.iconoCategorias {
+    margin: 12px 20px 12px 0px;
+    color: #808080;
+}
+
+.divCerrarMenu {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    position: relative;
+    padding: 10% 0px 15px 0px;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.textoCerrarMenu {
+    color: #808080;
+    margin: 0px 10px 0px 0px;
+}
+
+.iconoCerrarMenu {
+    color: #808080;
+    cursor: pointer;
+}
+
+.logoNavbar {
+    flex-grow: 1;
+    margin: 10px 0px 10px 0px;
+    height: 55px;
+}
+
+.categoriaMobile {
+    color: #000;
+    text-decoration: none;
+}
+
+.iconoCarro {
+    margin: 0px 0px 0px 0px;
+}
+
+.divTuLogoAqui {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.divPrincipalPresentacion {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    /*justify-content: center;*/
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/angydracon.appspot.com/o/skinlaser%2Fportada%2Fportada%20jpg.jpg?alt=media&token=b5a694b0-8ab2-4e6c-ba10-acfb5e63bc8b");
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.divPrincipalPresentacionRestaurantes {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    /*justify-content: center;*/
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    /*background-image: url('src/recursosMultimedia/pizzaPortada.jpg');*/
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/draconcoffee.appspot.com/o/restaurantes%2FfondoPortada%2FpizzaPortada.jpg?alt=media&token=6bad1a22-e55f-4c3d-9bf8-af6c786aa988");
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.divLogoPresentacion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+
+.textoBienvenidaRestaurantes {
+    font-size: 25px;
+    color: #ffffff;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    font-weight: 700;
+}
+
+.divLogoRestaurantes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.divOpcionesServiciosProductos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+
+.logoPresentacion {
+    width: 180px;
+}
+
+.divTextoPresentacion {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin: 50px 0px 30px 0px;
+}
+
+.divBotonContinuar {
+    width: 185px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+    border: none;
+    background: linear-gradient(90deg, #26378D 30%, #4090D1 90%);
+}
+
+.divBotonContinuarNaranja {
+    width: 185px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+    border: none;
+    background: linear-gradient(90deg, #FEBA20 30%, #FFD000 90%);
+}
+
+.divTextoBotonGuardar {
+    width: 185px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+    border: none;
+    background: linear-gradient(90deg, #26378D 30%, #4090D1 90%);
+    font-size: 17px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.divContenedorEdiciones {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divOpcionesEditar {
+    width: 200px;
+    height: 50px;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #FEBA20;
+    border-radius: 25px;
+}
+
+.divNombreProductoFicha {
+    width: 100%;
+}
+
+.post {
+    background-color: #ffffff;
+    width: 355px;
+    border: 1px solid lightgray;
+    margin: 10px 5px 10px 5px;
+}
+
+.post__image {
+    width: 355px;
+    margin-bottom: 5px;
+}
+
+.post__header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+    height: 60px;
+}
+
+.post__avatar {
+    margin-right: 10px;
+}
+
+.post__commentBox {
+    display: flex;
+    margin-top: 5px;
+    background-color: #ffffff;
+}
+
+.post__input {
+    flex: 1;
+    border: none;
+    padding: 10px;
+    border-top: 1px solid lightgray;
+    font-size: 15px;
+}
+
+.post__button {
+    flex: 0;
+    border: none;
+    border-top: 1px solid lightgray;
+    color: #6082a3;
+    background-color: transparent;
+    font-size: 15px;
+}
+
+.post__comments {
+    padding: 10px;
+    margin: 5px;
+    background-color: #f8f8f8;
+    height: 60px;
+    overflow: scroll;
+    font-size: 17px;
+    color: #808080;
+}
+
+.usoComentarios {
+    background-color: #ffffff;
+    font-size: 17px;
+    padding: 10px 0px 0px 10px;
+    color: #000;
+}
+
+.app__posts {
+    justify-content: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.divTexto {
+    width: 100%;
+    background-color: #ffffff;
+    text-align: center;
+    margin: 0px 0px 15px 0px;
+}
+
+.divPricipalEdicion {
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.alineacionEditarEliminar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.botonesEdicionEdicion {
+    border-radius: 15px;
+    font-size: 15px;
+    border: none;
+    font-weight: 700;
+    padding: 10px 10px 10px 10px;
+    background-color: #ffffff;
+    width: 70px;
+    cursor: pointer;
+    color: #000;
+}
+
+.divCasillaEdicionEdicionSubcategorias {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: flex-start;
+    background-color: #ffffff;
+    border: solid 1px #000;
+    padding: 5px 20px 7px 20px;
+    margin: 10px 0px 0px 0px;
+    border-radius: 15px;
+    width: 290px;
+}
+
+.divPublicacionesEdicion {
+    background-color: #ffffff;
+    display: flex;
+    margin: 0px 0px 40px 0px;
+}
+
+.alineacionBarraDeBusquedaEdicionProductos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 25px 0px 0px 0px;
+    width: 100%;
+}
+
+.iconosBarraDeBusquedaEdicionProductos {
+    font-size: 50px;
+    display: flex;
+    position: relative;
+    left: 20;
+    top: 18;
+    background-color: transparent;
+    color: #FEBA20;
+}
+
+.casillaBarraDeBusquedaEdicionProductos {
+    margin: 10px 25px 10px 0px;
+    border-radius: 20px;
+    width: 300px;
+    border: solid 1px #FEBA20;
+    padding: 10px 10px 10px 45px;
+    font-size: 16px;
+    background-color: #ffffff;
+}
+
+.imagenEdicionProductos {
+    width: 150px;
+    height: 150px;
+}
+
+.app {
+    background-color: #ffffff;
+}
+
+.botonSalir {
+    color: #FEBA20;
+    background-color: #ffffff;
+    font-size: 20px;
+    border: none;
+    padding: 15px 25px 0px 0px;
+    cursor: pointer;
+}
+
+.debesIniciarSesion2 {
+    background-color: #FEBA20;
+    font-weight: normal;
+    padding: 0px 0px 0px 0px;
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+}
+
+.divBotonVolver {
+    align-items: left;
+    display: flex;
+    background-color: transparent;
+    width: 100%;
+}
+
+.imagenLogo {
+    min-width: 255px;
+    max-width: 260px;
+    margin: 100px 0px 7px 0px;
+}
+
+.divIniciarSesion {
+    width: "100%";
+    background-color: "#ffffff";
+    text-align: "center";
+    margin: "60px 0px 20px 0px";
+}
+
+.botonPublicar {
+    margin: "5px";
+    width: "100px";
+    font-size: "20px";
+    font-weight: "bold";
+    color: "#808080";
+}
+
+.debesIniciarSesion {
+    width: "100%";
+    font-size: "20px";
+    color: "#3C81E5";
+}
+
+.botonIniciarSesion {
+    margin: 100px 0px 50px 0px;
+    border-radius: 15px;
+    font-size: 15px;
+    border: none;
+    font-weight: 700;
+    padding: 10px 25px 10px 25px;
+    background-color: #ffffff;
+    border: solid 1px black;
+    width: 150px;
+    cursor: pointer;
+    color: #000;
+}
+
+.app__header {
+    position: sticky;
+    z-index: 1;
+    padding: 5px 0px 0px 0px;
+    border-bottom: 1px soloid lightgray;
+    object-fit: contain;
+    display: flex;
+    justify-content: space-between;
+    color: #FEBA20;
+}
+
+.app__headerImage {
+    object-fit: contain;
+}
+
+.app__postsRight {
+    margin-left: 20px;
+}
+
+.app__signup {
+    display: flex;
+    width: 250px;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.iniciarSesionRegistrarse {
+    background-color: #FEBA20;
+    display: flex;
+    flex-direction: column;
+}
+
+.divSalirvolver {
+    width: 100%;
+    display: flex;
+}
+
+.logoLogin {
+    flex-grow: 1;
+    margin: 50px 0px 10px 0px;
+    height: 55px;
+}
+
+.divLogoLoginTablero {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 30px 0px 10px 0px;
+}
+
+.logoLoginTablero {
+    width: 160px;
+}
+
+.divTextoLoginTablero {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin: 50px 0px 0px 0px;
+}
+
+.alineacionHorizontalWrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.alineacionHorizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.divTituloPublicar {
+    margin: 20px 0px 20px 0px;
+    width: 100%;
+    background-color: #000;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.campos__text {
+    margin: '10px 0px 10px 0px';
+    border-radius: '20px';
+    width: '300px';
+    border: 'solid 1px #000';
+    padding: '10px 20px 10px 20px';
+    font-size: '15px';
+    background-color: '#ffffff'
+}
+
+.contenedorBotonesPublicar {
+    display: flex;
+    flex-direction: row;
+    padding: '60px 0px 0px 0px';
+}
+
+.divInputBotonImagen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+.divBotonPublicarVerde {
+    margin: 20px 10px 20px 10px;
+    background-color: greenyellow;
+    width: 140px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: none;
+}
+
+.divBotonPublicarAmarillo {
+    margin: 20px 10px 0px 10px;
+    background-color: yellow;
+    width: 140px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.divFlotanteRegistroExitoso {
+    width: 190px;
+    height: 20px;
+    background-color: #20ca67;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 7px 0px 7px 0px;
+}
+
+label {
+    border-radius: 15px;
+    width: 140px;
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    bottom: 70px;
+    cursor: pointer;
+}
+
+.subirImagen {
+    height: 80px;
+    width: 300px;
+}
+
+.imageupload__progress {
+    width: 200px;
+    height: 40px;
+}
+
+.box {
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.containerCrop {
+    width: 100%;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 15px;
+}
+
+.containerPhotos {
+    width: 340px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 10px 0;
+    justify-content: center;
+}
+
+.imageLoaded {
+    width: 80px;
+    height: 80px;
+    background: #95a5a6;
+    position: relative;
+    cursor: pointer;
+}
+
+.imageLoaded::before {
+    content: "x";
+    position: absolute;
+    font-size: 17px;
+    font-weight: 700;
+    color: #ffffff;
+    top: 30px;
+    left: 36px;
+}
+
+.image__sel {
+    width: 100%;
+}
+
+/* .alice-carousel__dots {
+    display: none;
+} */
+
+* {
+    margin: 0;
+}
+
+.casillaTexto {
+    margin: 10px 40px 10px 0px;
+    border-radius: 20px;
+    width: 200px;
+    border: solid 1px #000;
+    padding: 10px 20px 10px 45px;
+    font-size: 15px;
+}
+
+.iconosText {
+    width: 30px;
+    position: relative;
+    left: 40;
+}
+
+.contenedorDivider {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+    margin: 10px 0px 10px 0px;
+}
+
+.divDividerTableroUno {
+    width: 15%;
+    height: 1px;
+    background-color: #FEBA20;
+    margin: 0px 0px 0px 0px;
+}
+
+.divTextoDividerTablero {
+    margin: 0px 10px 0px 10px;
+}
+
+.divDividerTableroDos {
+    width: 55%;
+    height: 1px;
+    background-color: #FEBA20;
+    margin: 0px 0px 0px 0px;
+}
+
+.divDividerTablero {
+    width: 100%;
+    height: 1px;
+    background-color: #FEBA20;
+    margin: 0px 0px 0px 0px;
+}
+
+.estiloIconosTableroActivo {
+    color: #FEBA20;
+    font-size: 25px;
+}
+
+.estiloIconosTableroInactivo {
+    color: #fff5d2;
+    font-size: 25px;
+}
+
+.contenedorOpcionesVistaCuadros {
+    background-color: #d3d3d3;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+.divOpcionesVistaCuadros {
+    padding: 5px 0px 5px 0px;
+}
+
+.imglogo {
+    height: 60px;
+    padding: 0px 0px 20px 0px;
+}
+
+.divBienvenidaCuadros {
+    background-color: #FEBA20;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px 0px 0px;
+    width: 100%;
+}
+
+.esteEs {
+    color: #000;
+    font-size: 16px;
+    padding: 0px 0px 5px 20px;
+}
+
+.alineacionServiciosCuadros {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0px 20px 0px 20px;
+    max-width: 900px
+}
+
+.cuadrosServiciosActivoCuadros {
+    border: 2px solid #FEBA20;
+    margin: 10px 10px 10px 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+}
+
+.cuadrosServiciosInactivoCuadros {
+    border: 2px solid #fff5d2;
+    margin: 10px 10px 10px 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+}
+
+.contenedorOpcionesVista {
+    display: flex;
+    flex-direction: row;
+}
+
+.divOpcionesVista {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #ffffff;
+    margin: 10px 10px 10px 25px;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+    height: 70px;
+}
+
+.divHola {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0px 0px 0px;
+}
+
+.divBienvenida {
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    padding: 20px 0px 20px 30px;
+}
+
+.alineacionServicios {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #ffffff;
+    flex-wrap: wrap;
+    margin: 10px 10px 20px 10px;
+}
+
+.divIcocnoTableroLista {
+    margin: 10px 10px 10px 10px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+
+.cuadrosServiciosActivoLista {
+    border: 2px solid #fff5d2;
+    margin: 10px 10px 10px 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+    height: 50px;
+}
+
+.cuadrosServiciosInactivo {
+    border: 2px solid #fff5d2;
+    margin: 10px 10px 10px 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+    height: 50px;
+}
+
+.divTextoServiciosActivoLista {
+    width: 290px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    padding: 0px 0px 4px 0px;
+}
+
+.diaSeleccionadoCalendario {
+    background-color: #FEBA20;
+    color: #000;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 5px 0px 0px 0px;
+    width: 320px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* calendario */
+.react-calendar__tile--active.selected {
+    background-color: blue !important;
+    color: white !important;
+}
+
+.react-calendar {
+    width: 350px;
+    max-width: 100%;
+    background: #ffffff;
+    border: 1px solid #a0a096;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+}
+
+.react-calendar--doubleView {
+    width: 700px;
+}
+
+.react-calendar--doubleView .react-calendar__viewContainer {
+    display: flex;
+    margin: -0.5em;
+}
+
+.react-calendar--doubleView .react-calendar__viewContainer>* {
+    width: 50%;
+    margin: 0.5em;
+}
+
+.react-calendar,
+.react-calendar *,
+.react-calendar *:before,
+.react-calendar *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.react-calendar button {
+    margin: 0;
+    border: 0;
+    outline: none;
+}
+
+.react-calendar button:enabled:hover {
+    cursor: pointer;
+}
+
+.react-calendar__navigation {
+    height: 44px;
+    margin-bottom: 1em;
+}
+
+.react-calendar__navigation button {
+    min-width: 44px;
+    background: none;
+}
+
+.react-calendar__navigation button:enabled:hover,
+.react-calendar__navigation button:enabled:focus {
+    background-color: #e6e6e6;
+}
+
+.react-calendar__navigation button[disabled] {
+    background-color: #f0f0f0;
+}
+
+.react-calendar__month-view__weekdays {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.75em;
+}
+
+.react-calendar__month-view__weekdays__weekday {
+    padding: 0.5em;
+}
+
+.react-calendar__month-view__weekNumbers {
+    font-weight: 700;
+}
+
+.react-calendar__month-view__weekNumbers .react-calendar__tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75em;
+    padding: calc(0.75em / 0.75) calc(0.5em / 0.75);
+}
+
+.react-calendar__month-view__days__day--weekend {
+    color: #d10000;
+}
+
+.react-calendar__month-view__days__day--neighboringMonth {
+    color: #757575;
+}
+
+.react-calendar__year-view .react-calendar__tile,
+.react-calendar__decade-view .react-calendar__tile,
+.react-calendar__century-view .react-calendar__tile {
+    padding: 2em 0.5em;
+}
+
+.react-calendar__tile {
+    max-width: 100%;
+    text-align: center;
+    padding: 0.75em 0.5em;
+    background: none;
+}
+
+.react-calendar__tile:disabled {
+    background-color: #f0f0f0;
+}
+
+.react-calendar__tile:enabled:hover,
+.react-calendar__tile:enabled:focus {
+    background-color: #e6e6e6;
+}
+
+.react-calendar__tile--now {
+    background: #ffff76;
+}
+
+.react-calendar__tile--now:enabled:hover,
+.react-calendar__tile--now:enabled:focus {
+    background: #ffffa9;
+}
+
+.react-calendar__tile--hasActive {
+    background: #76baff;
+}
+
+.react-calendar__tile--hasActive:enabled:hover,
+.react-calendar__tile--hasActive:enabled:focus {
+    background: #a9d4ff;
+}
+
+.react-calendar__tile--active {
+    background: #006edc;
+    color: #ffffff;
+}
+
+.react-calendar__tile--active:enabled:hover,
+.react-calendar__tile--active:enabled:focus {
+    background: #1087ff;
+}
+
+.react-calendar--selectRange .react-calendar__tile--hover {
+    background-color: #e6e6e6;
+}
+
+.divCantidadDiasDisponibles {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0px 15px 0px;
+    border-radius: 15px;
+    border: solid 1px #FEBA20;
+    width: 310px;
+    height: 40px;
+}
+
+.CssEditarCiudades {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0px 15px 0px;
+    border-radius: 15px;
+    border: solid 1px #FEBA20;
+    width: 310px;
+}
+
+.divPrincipalHorarios {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    border: solid 1px #FEBA20;
+    width: 310px;
+    padding: 15px 0px 15px 0px;
+}
